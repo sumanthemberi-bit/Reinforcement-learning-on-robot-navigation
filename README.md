@@ -4,7 +4,7 @@ An interactive web app where a robot learns to navigate a grid world and reach a
 
 ## Demo
 
-Run locally (see below) or visit the deployed app: **[add your Streamlit Cloud link here once deployed]**
+Run locally (see below) or visit the deployed app: https://reinforcement-learning-on-robot-navigation-bkannsa6ytpoyjapjzd.streamlit.app/
 
 ## What it does
 
